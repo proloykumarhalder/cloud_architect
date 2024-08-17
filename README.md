@@ -1,2 +1,2 @@
 # cloud_architect
-This is for GCP architect related POC
+This is for GCP architect related POC.
